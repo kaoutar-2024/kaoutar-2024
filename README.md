@@ -59,7 +59,4 @@ I'm currently building towards an **Embedded Systems Engineer** role, with a foc
 
 ---
 
-## 📫 Let's connect
 
-- 📧 Email: *add your professional email here*
-- 💼 LinkedIn: *add your LinkedIn link here*
